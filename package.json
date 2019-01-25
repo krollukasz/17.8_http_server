@@ -1,0 +1,25 @@
+{
+  "name": "17.8_http_server",
+  "version": "1.0.0",
+  "description": "My first http server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krollukasz/17.8_http_server.git"
+  },
+  "keywords": [
+    "learning",
+    "npm",
+    "node"
+  ],
+  "author": "Łukasz Król",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krollukasz/17.8_http_server/issues"
+  },
+  "homepage": "https://github.com/krollukasz/17.8_http_server#readme"
+}
